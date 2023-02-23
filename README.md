@@ -7,6 +7,8 @@
 
 ### Shopify Ignore
 ###### In a **.shopifyignore** file, add the following lines:
+```
 builder.js
 commands/*
 about/*
+```
