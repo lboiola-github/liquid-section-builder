@@ -11,6 +11,8 @@ function sayHi() {
     -    new-section: Creates a new Section with the given ID
 
     -    new-section-schema: Creates a new Section with the given ID, and a basic schema
+
+    -    new-section-slider: Creates a new Section with the given ID, and a slider
     `)
 }
 
